@@ -17,6 +17,13 @@ This plugin does not create metadata for the post, but it will create a new tabl
 
 Demo : [Địa Điểm Phật Giáo](http://diadiemphatgiao.vn)
 
+= Usage =
+
+For current version of theme, you have to open file in DirectoryEngine theme then :
+
+*   To display view count : using do_action('de_show_view_count');
+*   To increase view couint : using do_action('de_increase_view_count');
+
 = Cộng đồng wordpress Việt Nam =
 *   [WordPress Kite](http://wordpresskite.com)
 *   [Sen Việt](http://laptrinh.senviet.org)

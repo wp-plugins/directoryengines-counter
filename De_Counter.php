@@ -28,8 +28,7 @@ class De_Counter
         add_action('de_loop_after_rate', array(self::getInstance(), 'show_view_count'));
         add_action('de_templatejs_loop_after_rate', array(self::getInstance(), 'show_view_count_templatejs'));
         add_action('de_single_after_rate', array(self::getInstance(), 'increase_view_count'),8);
-        add_action('increase_view_count', array(self::getInstance(), 'increase_view_count'),8);
-        add_action('de_increase_view_count', array(self::getInstance(), 'increase_then_show'),8);
+        add_action('de_increase_view_count', array(self::getInstance(), 'increase_view_count'),8);
         add_action('delete_post', array(self::getInstance(), 'delete_view_row'));
         add_action('wp_insert_post', array(self::getInstance(), 'insert_post'));
     }
