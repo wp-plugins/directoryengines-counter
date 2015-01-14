@@ -26,6 +26,7 @@ class De_Counter
     {
         add_action('de_show_view_count', array(self::getInstance(), 'show_view_count'), 8);
         add_action('de_loop_after_rate', array(self::getInstance(), 'show_view_count'));
+        add_action('de_templatejs_loop_after_rate', array(self::getInstance(), 'show_view_count_templatejs'));
         add_action('de_single_after_rate', array(self::getInstance(), 'increase_view_count'),8);
         add_action('increase_view_count', array(self::getInstance(), 'increase_view_count'),8);
         add_action('de_increase_view_count', array(self::getInstance(), 'increase_then_show'),8);
@@ -75,6 +76,20 @@ class De_Counter
             <i class="fa fa-eye"></i>&nbsp;<?php echo $viewCount; ?>
         </div>
         <?php
+
+    }
+
+    /**
+     * @param int $post_id
+     */
+    public function show_view_count_templatejs($post_id = null)
+    {
+        $viewCount = $this->getCount($post_id);
+        ?>
+        <div class="col-md-6 card_bottom_right">
+            <i class="fa fa-eye"></i>&nbsp;{{= view_count }}
+        </div>
+    <?php
 
     }
 
