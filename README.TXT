@@ -5,17 +5,18 @@ Donate link: http://laptrinh.senviet.org
 Requires at least: 3.0.1
 Tested up to: 4.1
 
-This plugin helps you to track and display the number of view of the place.
+This plugin helps you to track and display the view count of the place.
 
 == Description ==
 
-The feature displays the number of views is not yet a reality in DirectoryEngine theme - a theme of EngineTheme. In the meantime this feature was developed in theme, this plugin will help you to do that - to the number of view.
+The feature displays the view count is not yet a reality in DirectoryEngine theme - a theme of EngineTheme. In the meantime, this plugin will help you to do that.
 
-After installing the plugin, you will see in your theme to add some view appears in the right corner, place the bottom of the list of items in place.
+After installing the plugin, you will see in your theme to add some view appears in the right-bottom corner of place item ( in place list ).
 
 This plugin does not create metadata for the post, but it will create a new table in your database, and saved views in this view. This is a good solution for the future development. When we can save many more metadata.
 
 = Cộng đồng wordpress Việt Nam =
+*   [WordPress Kite](https://wordpresskite.com)
 *   [Sen Việt](https://laptrinh.senviet.org)
 *   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
 *   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
