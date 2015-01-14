@@ -15,9 +15,11 @@ After installing the plugin, you will see in your theme to add some view appears
 
 This plugin does not create metadata for the post, but it will create a new table in your database, and saved views in this view. This is a good solution for the future development. When we can save many more metadata.
 
+Demo : [Địa Điểm Phật Giáo](http://diadiemphatgiao.vn)
+
 = Cộng đồng wordpress Việt Nam =
-*   [WordPress Kite](https://wordpresskite.com)
-*   [Sen Việt](https://laptrinh.senviet.org)
+*   [WordPress Kite](http://wordpresskite.com)
+*   [Sen Việt](http://laptrinh.senviet.org)
 *   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
 *   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
 
@@ -29,6 +31,8 @@ This plugin does not create metadata for the post, but it will create a new tabl
 
 Hãy tham gia cộng đồng wordpress Việt Nam để cùng chia sẻ kiến thức, kinh nghiệm về lập trình
 
-*   [Sen Việt](https://laptrinh.senviet.org/wordpress)
+= Cộng đồng wordpress Việt Nam =
+*   [WordPress Kite](http://wordpresskite.com)
+*   [Sen Việt](http://laptrinh.senviet.org)
 *   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
 *   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
