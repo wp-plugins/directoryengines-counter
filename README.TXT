@@ -20,7 +20,7 @@ Demo : [Địa Điểm Phật Giáo](http://diadiemphatgiao.vn)
 = Cộng đồng wordpress Việt Nam =
 *   [WordPress Kite](http://wordpresskite.com)
 *   [Sen Việt](http://laptrinh.senviet.org)
-*   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
+*   [Facebook page](https://www.facebook.com/senviet.laptrinh)
 *   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
 
 == Screenshots ==
@@ -34,5 +34,5 @@ Hãy tham gia cộng đồng wordpress Việt Nam để cùng chia sẻ kiến t
 = Cộng đồng wordpress Việt Nam =
 *   [WordPress Kite](http://wordpresskite.com)
 *   [Sen Việt](http://laptrinh.senviet.org)
-*   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
+*   [Facebook page](https://www.facebook.com/senviet.laptrinh)
 *   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
